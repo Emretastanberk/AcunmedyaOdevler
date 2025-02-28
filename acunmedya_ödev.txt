@@ -1,0 +1,9 @@
+Soyut sınıf (Abstract Class),doğrudan nesne üretilemeyen, ancak başka sınıflar tarafından miras alınarak kullanılabilen bir sınıf türüdür.Farklı sınıfların ortak bir şablon üzerinden çalışmasına olanak tanır.
+
+
+Abstraction (Soyutlama) , bir nesnenin gerekli olan özelliklerini ön plana çıkarıp gereksiz detayları gizleme prensibidir. Programlamada, karmaşıklığı azaltmak ve kodu daha anlaşılır hale getirmek için kullanılır.
+
+
+Polymorphism (Çok Biçimlilik),  nesnelerin aynı isimdeki metotları farklı şekillerde uygulayabilmesini sağlayan bir OOP (Nesne Yönelimli Programlama) prensibidir. İki adet türü vardır;
+1. Metot Overloading (Aşırı Yükleme) – Derleme Zamanı (Compile-time) Polimorfizmi
+2. Metot Overriding (Ezme) – Çalışma Zamanı (Runtime) Polimorfizmi

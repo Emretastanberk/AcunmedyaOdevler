@@ -1,0 +1,15 @@
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Inheritance_work\obj\Debug\net8.0\Inheritance_work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Inheritance_work\obj\Debug\net8.0\Inheritance_work.AssemblyInfoInputs.cache
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Inheritance_work\obj\Debug\net8.0\Inheritance_work.AssemblyInfo.cs
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Inheritance_work\obj\Debug\net8.0\Inheritance_work.csproj.CoreCompileInputs.cache
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Inheritance_work\obj\Debug\net8.0\Inheritance_work.sourcelink.json
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Inheritance_work\bin\Debug\net8.0\Inheritance_work.exe
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Inheritance_work\bin\Debug\net8.0\Inheritance_work.deps.json
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Inheritance_work\bin\Debug\net8.0\Inheritance_work.runtimeconfig.json
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Inheritance_work\bin\Debug\net8.0\Inheritance_work.dll
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Inheritance_work\bin\Debug\net8.0\Inheritance_work.pdb
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Inheritance_work\obj\Debug\net8.0\Inheritance_work.dll
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Inheritance_work\obj\Debug\net8.0\refint\Inheritance_work.dll
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Inheritance_work\obj\Debug\net8.0\Inheritance_work.pdb
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Inheritance_work\obj\Debug\net8.0\Inheritance_work.genruntimeconfig.cache
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Inheritance_work\obj\Debug\net8.0\ref\Inheritance_work.dll

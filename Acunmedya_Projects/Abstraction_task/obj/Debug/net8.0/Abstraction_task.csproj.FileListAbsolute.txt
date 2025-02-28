@@ -1,0 +1,15 @@
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Abstraction_task\bin\Debug\net8.0\Abstraction_task.exe
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Abstraction_task\bin\Debug\net8.0\Abstraction_task.deps.json
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Abstraction_task\bin\Debug\net8.0\Abstraction_task.runtimeconfig.json
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Abstraction_task\bin\Debug\net8.0\Abstraction_task.dll
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Abstraction_task\bin\Debug\net8.0\Abstraction_task.pdb
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Abstraction_task\obj\Debug\net8.0\Abstraction_task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Abstraction_task\obj\Debug\net8.0\Abstraction_task.AssemblyInfoInputs.cache
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Abstraction_task\obj\Debug\net8.0\Abstraction_task.AssemblyInfo.cs
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Abstraction_task\obj\Debug\net8.0\Abstraction_task.csproj.CoreCompileInputs.cache
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Abstraction_task\obj\Debug\net8.0\Abstraction_task.sourcelink.json
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Abstraction_task\obj\Debug\net8.0\Abstraction_task.dll
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Abstraction_task\obj\Debug\net8.0\refint\Abstraction_task.dll
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Abstraction_task\obj\Debug\net8.0\Abstraction_task.pdb
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Abstraction_task\obj\Debug\net8.0\Abstraction_task.genruntimeconfig.cache
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Abstraction_task\obj\Debug\net8.0\ref\Abstraction_task.dll

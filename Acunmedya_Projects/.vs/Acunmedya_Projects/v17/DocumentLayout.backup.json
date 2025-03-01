@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{4369378C-BFB6-497F-8FAC-BB6E049237C0}|Abstraction_task\\Abstraction_task.csproj|solutionrelative:abstraction_task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4369378C-BFB6-497F-8FAC-BB6E049237C0}|Abstraction_task\\Abstraction_task.csproj|c:\\users\\tasta\\desktop\\acunmedya_odevler\\acunmedyaodevler\\acunmedya_projects\\abstraction_task\\classes\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4369378C-BFB6-497F-8FAC-BB6E049237C0}|Abstraction_task\\Abstraction_task.csproj|solutionrelative:abstraction_task\\classes\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4369378C-BFB6-497F-8FAC-BB6E049237C0}|Abstraction_task\\Abstraction_task.csproj|c:\\users\\tasta\\desktop\\acunmedya_odevler\\acunmedyaodevler\\acunmedya_projects\\abstraction_task\\classes\\calcfuel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4369378C-BFB6-497F-8FAC-BB6E049237C0}|Abstraction_task\\Abstraction_task.csproj|solutionrelative:abstraction_task\\classes\\calcfuel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4369378C-BFB6-497F-8FAC-BB6E049237C0}|Abstraction_task\\Abstraction_task.csproj|c:\\users\\tasta\\desktop\\acunmedya_odevler\\acunmedyaodevler\\acunmedya_projects\\abstraction_task\\classes\\bmw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4369378C-BFB6-497F-8FAC-BB6E049237C0}|Abstraction_task\\Abstraction_task.csproj|solutionrelative:abstraction_task\\classes\\bmw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4369378C-BFB6-497F-8FAC-BB6E049237C0}|Abstraction_task\\Abstraction_task.csproj|c:\\users\\tasta\\desktop\\acunmedya_odevler\\acunmedyaodevler\\acunmedya_projects\\abstraction_task\\interfaces\\ifuel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4369378C-BFB6-497F-8FAC-BB6E049237C0}|Abstraction_task\\Abstraction_task.csproj|solutionrelative:abstraction_task\\interfaces\\ifuel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4369378C-BFB6-497F-8FAC-BB6E049237C0}|Abstraction_task\\Abstraction_task.csproj|c:\\users\\tasta\\desktop\\acunmedya_odevler\\acunmedyaodevler\\acunmedya_projects\\abstraction_task\\classes\\mercedes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,6 +21,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{4369378C-BFB6-497F-8FAC-BB6E049237C0}|Abstraction_task\\Abstraction_task.csproj|c:\\users\\tasta\\desktop\\acunmedya_odevler\\acunmedyaodevler\\acunmedya_projects\\abstraction_task\\classes\\porsche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4369378C-BFB6-497F-8FAC-BB6E049237C0}|Abstraction_task\\Abstraction_task.csproj|solutionrelative:abstraction_task\\classes\\porsche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4369378C-BFB6-497F-8FAC-BB6E049237C0}|Abstraction_task\\Abstraction_task.csproj|c:\\users\\tasta\\desktop\\acunmedya_odevler\\acunmedyaodevler\\acunmedya_projects\\abstraction_task\\classes\\bmw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4369378C-BFB6-497F-8FAC-BB6E049237C0}|Abstraction_task\\Abstraction_task.csproj|solutionrelative:abstraction_task\\classes\\bmw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,10 +44,23 @@
               "RelativeDocumentMoniker": "Abstraction_task\\Program.cs",
               "ToolTip": "C:\\Users\\tasta\\Desktop\\Acunmedya_Odevler\\AcunmedyaOdevler\\Acunmedya_Projects\\Abstraction_task\\Program.cs",
               "RelativeToolTip": "Abstraction_task\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAQwC4AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-28T19:20:02.672Z",
               "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalcFuel.cs",
+              "DocumentMoniker": "C:\\Users\\tasta\\Desktop\\Acunmedya_Odevler\\AcunmedyaOdevler\\Acunmedya_Projects\\Abstraction_task\\Classes\\CalcFuel.cs",
+              "RelativeDocumentMoniker": "Abstraction_task\\Classes\\CalcFuel.cs",
+              "ToolTip": "C:\\Users\\tasta\\Desktop\\Acunmedya_Odevler\\AcunmedyaOdevler\\Acunmedya_Projects\\Abstraction_task\\Classes\\CalcFuel.cs",
+              "RelativeToolTip": "Abstraction_task\\Classes\\CalcFuel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T21:50:31.114Z",
               "EditorCaption": ""
             },
             {
@@ -54,9 +71,9 @@
               "RelativeDocumentMoniker": "Abstraction_task\\Classes\\Porsche.cs",
               "ToolTip": "C:\\Users\\tasta\\Desktop\\Acunmedya_Odevler\\AcunmedyaOdevler\\Acunmedya_Projects\\Abstraction_task\\Classes\\Porsche.cs",
               "RelativeToolTip": "Abstraction_task\\Classes\\Porsche.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T19:26:33.478Z",
+              "WhenOpened": "2025-03-01T21:41:20.113Z",
               "EditorCaption": ""
             },
             {
@@ -67,35 +84,35 @@
               "RelativeDocumentMoniker": "Abstraction_task\\Classes\\Mercedes.cs",
               "ToolTip": "C:\\Users\\tasta\\Desktop\\Acunmedya_Odevler\\AcunmedyaOdevler\\Acunmedya_Projects\\Abstraction_task\\Classes\\Mercedes.cs",
               "RelativeToolTip": "Abstraction_task\\Classes\\Mercedes.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAswBgAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T19:26:19.613Z",
+              "WhenOpened": "2025-03-01T21:41:18.702Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "IFuel.cs",
+              "DocumentMoniker": "C:\\Users\\tasta\\Desktop\\Acunmedya_Odevler\\AcunmedyaOdevler\\Acunmedya_Projects\\Abstraction_task\\Interfaces\\IFuel.cs",
+              "RelativeDocumentMoniker": "Abstraction_task\\Interfaces\\IFuel.cs",
+              "ToolTip": "C:\\Users\\tasta\\Desktop\\Acunmedya_Odevler\\AcunmedyaOdevler\\Acunmedya_Projects\\Abstraction_task\\Interfaces\\IFuel.cs",
+              "RelativeToolTip": "Abstraction_task\\Interfaces\\IFuel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T21:37:08.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Bmw.cs",
               "DocumentMoniker": "C:\\Users\\tasta\\Desktop\\Acunmedya_Odevler\\AcunmedyaOdevler\\Acunmedya_Projects\\Abstraction_task\\Classes\\Bmw.cs",
               "RelativeDocumentMoniker": "Abstraction_task\\Classes\\Bmw.cs",
               "ToolTip": "C:\\Users\\tasta\\Desktop\\Acunmedya_Odevler\\AcunmedyaOdevler\\Acunmedya_Projects\\Abstraction_task\\Classes\\Bmw.cs",
               "RelativeToolTip": "Abstraction_task\\Classes\\Bmw.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAowBgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T19:22:43.623Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Car.cs",
-              "DocumentMoniker": "C:\\Users\\tasta\\Desktop\\Acunmedya_Odevler\\AcunmedyaOdevler\\Acunmedya_Projects\\Abstraction_task\\Classes\\Car.cs",
-              "RelativeDocumentMoniker": "Abstraction_task\\Classes\\Car.cs",
-              "ToolTip": "C:\\Users\\tasta\\Desktop\\Acunmedya_Odevler\\AcunmedyaOdevler\\Acunmedya_Projects\\Abstraction_task\\Classes\\Car.cs",
-              "RelativeToolTip": "Abstraction_task\\Classes\\Car.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T19:32:44.602Z",
+              "WhenOpened": "2025-03-01T21:39:03.427Z",
               "EditorCaption": ""
             }
           ]

@@ -1,0 +1,1 @@
+Array(Dizi), aynı türdeki birden fazla veriyi sıralı bir şekilde tutan bir veri yapısıdır. Her bir elemanın bir indeks numarası vardır ve bu indeks numaraları ile verilere ulaşırız. İndeks numaramız 0 dan başlamaktadır. Diziler sabit boyutludur. 

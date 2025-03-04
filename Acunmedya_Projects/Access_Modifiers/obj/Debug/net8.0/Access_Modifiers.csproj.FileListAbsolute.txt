@@ -1,0 +1,15 @@
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Access_Modifiers\obj\Debug\net8.0\Access_Modifiers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Access_Modifiers\obj\Debug\net8.0\Access_Modifiers.AssemblyInfoInputs.cache
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Access_Modifiers\obj\Debug\net8.0\Access_Modifiers.AssemblyInfo.cs
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Access_Modifiers\obj\Debug\net8.0\Access_Modifiers.csproj.CoreCompileInputs.cache
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Access_Modifiers\obj\Debug\net8.0\Access_Modifiers.sourcelink.json
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Access_Modifiers\bin\Debug\net8.0\Access_Modifiers.exe
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Access_Modifiers\bin\Debug\net8.0\Access_Modifiers.deps.json
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Access_Modifiers\bin\Debug\net8.0\Access_Modifiers.runtimeconfig.json
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Access_Modifiers\bin\Debug\net8.0\Access_Modifiers.dll
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Access_Modifiers\bin\Debug\net8.0\Access_Modifiers.pdb
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Access_Modifiers\obj\Debug\net8.0\Access_Modifiers.dll
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Access_Modifiers\obj\Debug\net8.0\refint\Access_Modifiers.dll
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Access_Modifiers\obj\Debug\net8.0\Access_Modifiers.pdb
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Access_Modifiers\obj\Debug\net8.0\Access_Modifiers.genruntimeconfig.cache
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Access_Modifiers\obj\Debug\net8.0\ref\Access_Modifiers.dll

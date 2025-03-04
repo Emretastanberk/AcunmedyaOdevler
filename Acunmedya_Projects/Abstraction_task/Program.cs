@@ -52,12 +52,6 @@ namespace Abstraction_task
 
 
 
-
-
-
-
-
-
             Console.Read();
 
 

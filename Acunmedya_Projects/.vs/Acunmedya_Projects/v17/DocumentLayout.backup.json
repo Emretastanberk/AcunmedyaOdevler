@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\tasta\\Desktop\\Acunmedya_Odevler\\AcunmedyaOdevler\\Acunmedya_Projects\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{72D5B20C-0D0B-499E-83E0-1FB672E5DDB3}|Access_Modifiers\\Access_Modifiers.csproj|c:\\users\\tasta\\desktop\\acunmedya_odevler\\acunmedyaodevler\\acunmedya_projects\\access_modifiers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72D5B20C-0D0B-499E-83E0-1FB672E5DDB3}|Access_Modifiers\\Access_Modifiers.csproj|solutionrelative:access_modifiers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{282F7245-09ED-4E88-9E25-93E523363489}|Basic_calculator\\Basic_calculator.csproj|c:\\users\\tasta\\desktop\\acunmedya_odevler\\acunmedyaodevler\\acunmedya_projects\\basic_calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{282F7245-09ED-4E88-9E25-93E523363489}|Basic_calculator\\Basic_calculator.csproj|solutionrelative:basic_calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB6D68A-4BFC-4B4D-9E7C-63956975A1EB}|Hello_world\\Hello_world.csproj|c:\\users\\tasta\\desktop\\acunmedya_odevler\\acunmedyaodevler\\acunmedya_projects\\hello_world\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBB6D68A-4BFC-4B4D-9E7C-63956975A1EB}|Hello_world\\Hello_world.csproj|solutionrelative:hello_world\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{72D5B20C-0D0B-499E-83E0-1FB672E5DDB3}|Access_Modifiers\\Access_Modifiers.csproj|c:\\users\\tasta\\desktop\\acunmedya_odevler\\acunmedyaodevler\\acunmedya_projects\\access_modifiers\\classes\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{72D5B20C-0D0B-499E-83E0-1FB672E5DDB3}|Access_Modifiers\\Access_Modifiers.csproj|solutionrelative:access_modifiers\\classes\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D5B20C-0D0B-499E-83E0-1FB672E5DDB3}|Access_Modifiers\\Access_Modifiers.csproj|c:\\users\\tasta\\desktop\\acunmedya_odevler\\acunmedyaodevler\\acunmedya_projects\\access_modifiers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D5B20C-0D0B-499E-83E0-1FB672E5DDB3}|Access_Modifiers\\Access_Modifiers.csproj|solutionrelative:access_modifiers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,31 +26,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\tasta\\Desktop\\Acunmedya_Odevler\\AcunmedyaOdevler\\Acunmedya_Projects\\Access_Modifiers\\Program.cs",
               "RelativeDocumentMoniker": "Access_Modifiers\\Program.cs",
               "ToolTip": "C:\\Users\\tasta\\Desktop\\Acunmedya_Odevler\\AcunmedyaOdevler\\Acunmedya_Projects\\Access_Modifiers\\Program.cs",
               "RelativeToolTip": "Access_Modifiers\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAtwBQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAtwA8AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-04T16:49:12.21Z",
-              "IsPinned": true,
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tasta\\Desktop\\Acunmedya_Odevler\\AcunmedyaOdevler\\Acunmedya_Projects\\Basic_calculator\\Program.cs",
+              "RelativeDocumentMoniker": "Basic_calculator\\Program.cs",
+              "ToolTip": "C:\\Users\\tasta\\Desktop\\Acunmedya_Odevler\\AcunmedyaOdevler\\Acunmedya_Projects\\Basic_calculator\\Program.cs",
+              "RelativeToolTip": "Basic_calculator\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T17:21:33.283Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tasta\\Desktop\\Acunmedya_Odevler\\AcunmedyaOdevler\\Acunmedya_Projects\\Hello_world\\Program.cs",
+              "RelativeDocumentMoniker": "Hello_world\\Program.cs",
+              "ToolTip": "C:\\Users\\tasta\\Desktop\\Acunmedya_Odevler\\AcunmedyaOdevler\\Acunmedya_Projects\\Hello_world\\Program.cs",
+              "RelativeToolTip": "Hello_world\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T17:20:28.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\tasta\\Desktop\\Acunmedya_Odevler\\AcunmedyaOdevler\\Acunmedya_Projects\\Access_Modifiers\\Classes\\User.cs",
               "RelativeDocumentMoniker": "Access_Modifiers\\Classes\\User.cs",
               "ToolTip": "C:\\Users\\tasta\\Desktop\\Acunmedya_Odevler\\AcunmedyaOdevler\\Acunmedya_Projects\\Access_Modifiers\\Classes\\User.cs",
               "RelativeToolTip": "Access_Modifiers\\Classes\\User.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBYAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-04T16:50:05.109Z",
               "EditorCaption": ""

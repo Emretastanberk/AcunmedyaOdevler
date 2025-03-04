@@ -1,0 +1,15 @@
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Basic_calculator\bin\Debug\net8.0\Basic_calculator.exe
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Basic_calculator\bin\Debug\net8.0\Basic_calculator.deps.json
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Basic_calculator\bin\Debug\net8.0\Basic_calculator.runtimeconfig.json
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Basic_calculator\bin\Debug\net8.0\Basic_calculator.dll
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Basic_calculator\bin\Debug\net8.0\Basic_calculator.pdb
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Basic_calculator\obj\Debug\net8.0\Basic_calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Basic_calculator\obj\Debug\net8.0\Basic_calculator.AssemblyInfoInputs.cache
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Basic_calculator\obj\Debug\net8.0\Basic_calculator.AssemblyInfo.cs
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Basic_calculator\obj\Debug\net8.0\Basic_calculator.csproj.CoreCompileInputs.cache
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Basic_calculator\obj\Debug\net8.0\Basic_calculator.sourcelink.json
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Basic_calculator\obj\Debug\net8.0\Basic_calculator.dll
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Basic_calculator\obj\Debug\net8.0\refint\Basic_calculator.dll
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Basic_calculator\obj\Debug\net8.0\Basic_calculator.pdb
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Basic_calculator\obj\Debug\net8.0\Basic_calculator.genruntimeconfig.cache
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Basic_calculator\obj\Debug\net8.0\ref\Basic_calculator.dll

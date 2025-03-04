@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\tasta\\Desktop\\Acunmedya_Odevler\\AcunmedyaOdevler\\Acunmedya_Projects\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{282F7245-09ED-4E88-9E25-93E523363489}|Basic_calculator\\Basic_calculator.csproj|c:\\users\\tasta\\desktop\\acunmedya_odevler\\acunmedyaodevler\\acunmedya_projects\\basic_calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{282F7245-09ED-4E88-9E25-93E523363489}|Basic_calculator\\Basic_calculator.csproj|solutionrelative:basic_calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BF6C1A42-6875-4635-AC5B-0E22899D62CA}|Arrays_and_Loops\\Arrays_and_Loops.csproj|c:\\users\\tasta\\desktop\\acunmedya_odevler\\acunmedyaodevler\\acunmedya_projects\\arrays_and_loops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF6C1A42-6875-4635-AC5B-0E22899D62CA}|Arrays_and_Loops\\Arrays_and_Loops.csproj|solutionrelative:arrays_and_loops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +20,14 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\tasta\\Desktop\\Acunmedya_Odevler\\AcunmedyaOdevler\\Acunmedya_Projects\\Basic_calculator\\Program.cs",
-              "RelativeDocumentMoniker": "Basic_calculator\\Program.cs",
-              "ToolTip": "C:\\Users\\tasta\\Desktop\\Acunmedya_Odevler\\AcunmedyaOdevler\\Acunmedya_Projects\\Basic_calculator\\Program.cs",
-              "RelativeToolTip": "Basic_calculator\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBEAAAANAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\tasta\\Desktop\\Acunmedya_Odevler\\AcunmedyaOdevler\\Acunmedya_Projects\\Arrays_and_Loops\\Program.cs",
+              "RelativeDocumentMoniker": "Arrays_and_Loops\\Program.cs",
+              "ToolTip": "C:\\Users\\tasta\\Desktop\\Acunmedya_Odevler\\AcunmedyaOdevler\\Acunmedya_Projects\\Arrays_and_Loops\\Program.cs",
+              "RelativeToolTip": "Arrays_and_Loops\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T17:21:33.283Z",
+              "WhenOpened": "2025-03-04T19:28:36.795Z",
+              "IsPinned": true,
               "EditorCaption": ""
             }
           ]

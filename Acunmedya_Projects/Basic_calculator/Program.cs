@@ -22,7 +22,7 @@ namespace Basic_calculator
                     break;
                 case '-':
                     result = a - b;
-                    Console.WriteLine(result);
+                    Console.WriteLine(result); 
                     break;
                 case '*':
                     result = a * b;

@@ -5,10 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{BF6C1A42-6875-4635-AC5B-0E22899D62CA}|Arrays_and_Loops\\Arrays_and_Loops.csproj|c:\\users\\tasta\\desktop\\acunmedya_odevler\\acunmedyaodevler\\acunmedya_projects\\arrays_and_loops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BF6C1A42-6875-4635-AC5B-0E22899D62CA}|Arrays_and_Loops\\Arrays_and_Loops.csproj|solutionrelative:arrays_and_loops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B40FD417-B381-4F10-9B16-30721DCFFE48}|Guess_Random\\Guess_Random.csproj|c:\\users\\tasta\\desktop\\acunmedya_odevler\\acunmedyaodevler\\acunmedya_projects\\guess_random\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B40FD417-B381-4F10-9B16-30721DCFFE48}|Guess_Random\\Guess_Random.csproj|solutionrelative:guess_random\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,33 +14,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\tasta\\Desktop\\Acunmedya_Odevler\\AcunmedyaOdevler\\Acunmedya_Projects\\Guess_Random\\Program.cs",
-              "RelativeDocumentMoniker": "Guess_Random\\Program.cs",
-              "ToolTip": "C:\\Users\\tasta\\Desktop\\Acunmedya_Odevler\\AcunmedyaOdevler\\Acunmedya_Projects\\Guess_Random\\Program.cs",
-              "RelativeToolTip": "Guess_Random\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAIwBIAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T18:52:22.691Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\tasta\\Desktop\\Acunmedya_Odevler\\AcunmedyaOdevler\\Acunmedya_Projects\\Arrays_and_Loops\\Program.cs",
               "RelativeDocumentMoniker": "Arrays_and_Loops\\Program.cs",
-              "ToolTip": "C:\\Users\\tasta\\Desktop\\Acunmedya_Odevler\\AcunmedyaOdevler\\Acunmedya_Projects\\Arrays_and_Loops\\Program.cs",
-              "RelativeToolTip": "Arrays_and_Loops\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\tasta\\Desktop\\Acunmedya_Odevler\\AcunmedyaOdevler\\Acunmedya_Projects\\Arrays_and_Loops\\Program.cs*",
+              "RelativeToolTip": "Arrays_and_Loops\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-04T19:28:36.795Z",
+              "IsPinned": true,
               "EditorCaption": ""
             }
           ]

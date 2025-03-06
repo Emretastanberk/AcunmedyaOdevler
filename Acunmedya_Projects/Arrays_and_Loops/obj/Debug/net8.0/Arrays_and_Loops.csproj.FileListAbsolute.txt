@@ -1,0 +1,15 @@
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Arrays_and_Loops\bin\Debug\net8.0\Arrays_and_Loops.exe
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Arrays_and_Loops\bin\Debug\net8.0\Arrays_and_Loops.deps.json
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Arrays_and_Loops\bin\Debug\net8.0\Arrays_and_Loops.runtimeconfig.json
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Arrays_and_Loops\bin\Debug\net8.0\Arrays_and_Loops.dll
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Arrays_and_Loops\bin\Debug\net8.0\Arrays_and_Loops.pdb
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Arrays_and_Loops\obj\Debug\net8.0\Arrays_and_Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Arrays_and_Loops\obj\Debug\net8.0\Arrays_and_Loops.AssemblyInfoInputs.cache
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Arrays_and_Loops\obj\Debug\net8.0\Arrays_and_Loops.AssemblyInfo.cs
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Arrays_and_Loops\obj\Debug\net8.0\Arrays_and_Loops.csproj.CoreCompileInputs.cache
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Arrays_and_Loops\obj\Debug\net8.0\Arrays_and_Loops.sourcelink.json
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Arrays_and_Loops\obj\Debug\net8.0\Arrays_and_Loops.dll
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Arrays_and_Loops\obj\Debug\net8.0\refint\Arrays_and_Loops.dll
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Arrays_and_Loops\obj\Debug\net8.0\Arrays_and_Loops.pdb
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Arrays_and_Loops\obj\Debug\net8.0\Arrays_and_Loops.genruntimeconfig.cache
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Arrays_and_Loops\obj\Debug\net8.0\ref\Arrays_and_Loops.dll

@@ -7,7 +7,7 @@ namespace Arrays_and_Loops
     {
         static void Main(string[] args)
         {
-            int length = 8;
+            int length = 5;
             int[] numbers = new int[length];
            
 

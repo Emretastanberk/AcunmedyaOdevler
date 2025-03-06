@@ -1,0 +1,15 @@
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Usage_Namespace\bin\Debug\net8.0\Usage_Namespace.exe
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Usage_Namespace\bin\Debug\net8.0\Usage_Namespace.deps.json
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Usage_Namespace\bin\Debug\net8.0\Usage_Namespace.runtimeconfig.json
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Usage_Namespace\bin\Debug\net8.0\Usage_Namespace.dll
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Usage_Namespace\bin\Debug\net8.0\Usage_Namespace.pdb
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Usage_Namespace\obj\Debug\net8.0\Usage_Namespace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Usage_Namespace\obj\Debug\net8.0\Usage_Namespace.AssemblyInfoInputs.cache
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Usage_Namespace\obj\Debug\net8.0\Usage_Namespace.AssemblyInfo.cs
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Usage_Namespace\obj\Debug\net8.0\Usage_Namespace.csproj.CoreCompileInputs.cache
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Usage_Namespace\obj\Debug\net8.0\Usage_Namespace.sourcelink.json
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Usage_Namespace\obj\Debug\net8.0\Usage_Namespace.dll
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Usage_Namespace\obj\Debug\net8.0\refint\Usage_Namespace.dll
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Usage_Namespace\obj\Debug\net8.0\Usage_Namespace.pdb
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Usage_Namespace\obj\Debug\net8.0\Usage_Namespace.genruntimeconfig.cache
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Usage_Namespace\obj\Debug\net8.0\ref\Usage_Namespace.dll

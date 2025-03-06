@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Guess_Random", "Guess_Rando
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays_and_Loops", "Arrays_and_Loops\Arrays_and_Loops.csproj", "{BF6C1A42-6875-4635-AC5B-0E22899D62CA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Usage_Namespace", "Usage_Namespace\Usage_Namespace.csproj", "{AC886677-DBB8-4D21-8DB8-65B24425BAFF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{BF6C1A42-6875-4635-AC5B-0E22899D62CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF6C1A42-6875-4635-AC5B-0E22899D62CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF6C1A42-6875-4635-AC5B-0E22899D62CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC886677-DBB8-4D21-8DB8-65B24425BAFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC886677-DBB8-4D21-8DB8-65B24425BAFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC886677-DBB8-4D21-8DB8-65B24425BAFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC886677-DBB8-4D21-8DB8-65B24425BAFF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

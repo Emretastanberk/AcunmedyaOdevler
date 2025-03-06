@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Usage_Namespace/1.0.0": {
+        "runtime": {
+          "Usage_Namespace.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Usage_Namespace/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

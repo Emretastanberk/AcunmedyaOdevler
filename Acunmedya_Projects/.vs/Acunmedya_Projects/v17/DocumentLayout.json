@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\tasta\\Desktop\\Acunmedya_Odevler\\AcunmedyaOdevler\\Acunmedya_Projects\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BF6C1A42-6875-4635-AC5B-0E22899D62CA}|Arrays_and_Loops\\Arrays_and_Loops.csproj|c:\\users\\tasta\\desktop\\acunmedya_odevler\\acunmedyaodevler\\acunmedya_projects\\arrays_and_loops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF6C1A42-6875-4635-AC5B-0E22899D62CA}|Arrays_and_Loops\\Arrays_and_Loops.csproj|solutionrelative:arrays_and_loops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AC886677-DBB8-4D21-8DB8-65B24425BAFF}|Usage_Namespace\\Usage_Namespace.csproj|c:\\users\\tasta\\desktop\\acunmedya_odevler\\acunmedyaodevler\\acunmedya_projects\\usage_namespace\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC886677-DBB8-4D21-8DB8-65B24425BAFF}|Usage_Namespace\\Usage_Namespace.csproj|solutionrelative:usage_namespace\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\tasta\\Desktop\\Acunmedya_Odevler\\AcunmedyaOdevler\\Acunmedya_Projects\\Arrays_and_Loops\\Program.cs",
-              "RelativeDocumentMoniker": "Arrays_and_Loops\\Program.cs",
-              "ToolTip": "C:\\Users\\tasta\\Desktop\\Acunmedya_Odevler\\AcunmedyaOdevler\\Acunmedya_Projects\\Arrays_and_Loops\\Program.cs",
-              "RelativeToolTip": "Arrays_and_Loops\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\tasta\\Desktop\\Acunmedya_Odevler\\AcunmedyaOdevler\\Acunmedya_Projects\\Usage_Namespace\\Program.cs",
+              "RelativeDocumentMoniker": "Usage_Namespace\\Program.cs",
+              "ToolTip": "C:\\Users\\tasta\\Desktop\\Acunmedya_Odevler\\AcunmedyaOdevler\\Acunmedya_Projects\\Usage_Namespace\\Program.cs",
+              "RelativeToolTip": "Usage_Namespace\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T10:44:04.455Z",
+              "WhenOpened": "2025-03-06T12:36:59.365Z",
               "EditorCaption": ""
             }
           ]

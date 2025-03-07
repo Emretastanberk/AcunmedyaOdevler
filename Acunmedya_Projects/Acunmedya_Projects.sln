@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays_and_Loops", "Arrays_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Usage_Namespace", "Usage_Namespace\Usage_Namespace.csproj", "{AC886677-DBB8-4D21-8DB8-65B24425BAFF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopCondition_Assignment", "Loop&Condition_Assignment\LoopCondition_Assignment.csproj", "{DEDCCEC4-A976-4D8D-9A97-55D0AFD2DA24}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{AC886677-DBB8-4D21-8DB8-65B24425BAFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AC886677-DBB8-4D21-8DB8-65B24425BAFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AC886677-DBB8-4D21-8DB8-65B24425BAFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEDCCEC4-A976-4D8D-9A97-55D0AFD2DA24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEDCCEC4-A976-4D8D-9A97-55D0AFD2DA24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEDCCEC4-A976-4D8D-9A97-55D0AFD2DA24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEDCCEC4-A976-4D8D-9A97-55D0AFD2DA24}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,15 @@
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Loop&Condition_Assignment\bin\Debug\net8.0\LoopCondition_Assignment.exe
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Loop&Condition_Assignment\bin\Debug\net8.0\LoopCondition_Assignment.deps.json
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Loop&Condition_Assignment\bin\Debug\net8.0\LoopCondition_Assignment.runtimeconfig.json
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Loop&Condition_Assignment\bin\Debug\net8.0\LoopCondition_Assignment.dll
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Loop&Condition_Assignment\bin\Debug\net8.0\LoopCondition_Assignment.pdb
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Loop&Condition_Assignment\obj\Debug\net8.0\LoopCondition_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Loop&Condition_Assignment\obj\Debug\net8.0\LoopCondition_Assignment.AssemblyInfoInputs.cache
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Loop&Condition_Assignment\obj\Debug\net8.0\LoopCondition_Assignment.AssemblyInfo.cs
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Loop&Condition_Assignment\obj\Debug\net8.0\LoopCondition_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Loop&Condition_Assignment\obj\Debug\net8.0\LoopCondition_Assignment.sourcelink.json
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Loop&Condition_Assignment\obj\Debug\net8.0\LoopCondition_Assignment.dll
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Loop&Condition_Assignment\obj\Debug\net8.0\refint\LoopCondition_Assignment.dll
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Loop&Condition_Assignment\obj\Debug\net8.0\LoopCondition_Assignment.pdb
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Loop&Condition_Assignment\obj\Debug\net8.0\LoopCondition_Assignment.genruntimeconfig.cache
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Loop&Condition_Assignment\obj\Debug\net8.0\ref\LoopCondition_Assignment.dll

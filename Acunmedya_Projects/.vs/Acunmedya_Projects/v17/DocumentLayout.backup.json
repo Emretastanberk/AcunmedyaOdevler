@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\tasta\\Desktop\\Acunmedya_Odevler\\AcunmedyaOdevler\\Acunmedya_Projects\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AC886677-DBB8-4D21-8DB8-65B24425BAFF}|Usage_Namespace\\Usage_Namespace.csproj|c:\\users\\tasta\\desktop\\acunmedya_odevler\\acunmedyaodevler\\acunmedya_projects\\usage_namespace\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC886677-DBB8-4D21-8DB8-65B24425BAFF}|Usage_Namespace\\Usage_Namespace.csproj|solutionrelative:usage_namespace\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DEDCCEC4-A976-4D8D-9A97-55D0AFD2DA24}|Loop\u0026Condition_Assignment\\Loop\u0026Condition_Assignment.csproj|c:\\users\\tasta\\desktop\\acunmedya_odevler\\acunmedyaodevler\\acunmedya_projects\\loop\u0026condition_assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEDCCEC4-A976-4D8D-9A97-55D0AFD2DA24}|Loop\u0026Condition_Assignment\\Loop\u0026Condition_Assignment.csproj|solutionrelative:loop\u0026condition_assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +20,14 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\tasta\\Desktop\\Acunmedya_Odevler\\AcunmedyaOdevler\\Acunmedya_Projects\\Usage_Namespace\\Program.cs",
-              "RelativeDocumentMoniker": "Usage_Namespace\\Program.cs",
-              "ToolTip": "C:\\Users\\tasta\\Desktop\\Acunmedya_Odevler\\AcunmedyaOdevler\\Acunmedya_Projects\\Usage_Namespace\\Program.cs",
-              "RelativeToolTip": "Usage_Namespace\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\tasta\\Desktop\\Acunmedya_Odevler\\AcunmedyaOdevler\\Acunmedya_Projects\\Loop\u0026Condition_Assignment\\Program.cs",
+              "RelativeDocumentMoniker": "Loop\u0026Condition_Assignment\\Program.cs",
+              "ToolTip": "C:\\Users\\tasta\\Desktop\\Acunmedya_Odevler\\AcunmedyaOdevler\\Acunmedya_Projects\\Loop\u0026Condition_Assignment\\Program.cs",
+              "RelativeToolTip": "Loop\u0026Condition_Assignment\\Program.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAQwIAAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T12:36:59.365Z",
+              "WhenOpened": "2025-03-07T16:41:36.154Z",
+              "IsPinned": true,
               "EditorCaption": ""
             }
           ]

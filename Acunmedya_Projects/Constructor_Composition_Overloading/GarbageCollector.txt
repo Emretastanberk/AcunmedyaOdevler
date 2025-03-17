@@ -1,0 +1,15 @@
+﻿	Garbege Collector bir bellek yönetim mekanizmasıdır. Kullanılmayan nesneleri serbrst bırakır, kullanılmayan bellek
+alanlarını birleştirerek belleğin daha verimli kullanılmasını sağlar.
+
+	Garbage Collector, runtime sırasında belirli koşullarda ve manuel olarak çağrılabilir. Çalışma prensibi şöyledir;
+İlk olarak Kök (root) nesnelerini yani Stack, statik değişkenler ve CPU kayıtlarındaki referansları tarayarak
+canlı nesneleri belirler.
+
+	Sonrasında ulaşılmayan nesneleri belirler ve bu nesneleri "çöp" olarak işaretler.
+
+	Son olarak, Bellek Temizleme (Compaction & Freeing Memory) işlemini gerçekleştirir. Bu işlemde kullanılmayan nesneler
+serbest bırakılır. Parçalanmayı önlemek için canlı nesneler birleştirilerek bellek düzeni sağlanır.
+
+Garbage Collectörün bellek yönetimindeki rolü nedir?
+	Garbage Collector (GC), bellek yönetimini otomatikleştirerek kullanılmayan nesneleri temizler, bellek sızıntılarını
+	önler ve belleği optimize eder.

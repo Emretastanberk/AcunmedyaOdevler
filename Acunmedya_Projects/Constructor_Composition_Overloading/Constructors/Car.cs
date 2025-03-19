@@ -8,17 +8,25 @@ namespace Constructor_Composition_Overloading.Constructors
 {
     public class Car
     {
-        public CarProps props;
+        public Brand brand;
+        public CarBody body;
+        public Modal modal;
+        public Door door;
+        public Window window;
         public double cost;
-        public Car(CarProps props, double cost)
+        public Car(Brand brand,CarBody body,Modal modal,Door door,Window window, double cost)
         {
-            this.props = props;
+            this.brand = brand;
+            this.body = body;
+            this.modal = modal;
+            this.door = door;
+            this.window = window;
             this.cost = cost;
         }
 
         public void writeProps()
         {
-            Console.WriteLine($"Arabanın markası {props.brand.brandName}, modeli {props.modal.modal}, kapı sayısı {props.door.doorNumber}, pencere sayısı {props.window.windowNumber}, kasası {props.body.bodyType}, fiyatı {cost} TL'dir.");
+            Console.WriteLine($"Arabanın markası {brand.brandName}, modeli {modal.modal}, kapı sayısı {door.doorNumber}, pencere sayısı {window.windowNumber}, kasası {body.bodyType}, fiyatı {cost} TL'dir.");
         }
 
     }

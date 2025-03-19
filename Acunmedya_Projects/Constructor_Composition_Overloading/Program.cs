@@ -15,8 +15,8 @@ namespace Constructor_Composition_Overloading
             Door doorNumber = new Door(4);
             Window windowNumber = new Window(4);
             CarBody body = new CarBody("Sedan");
-            CarProps props = new CarProps(brand, modal, doorNumber, windowNumber, body);
-            Car bmw = new Car(props, 2000000);
+      
+            Car bmw = new Car(brand, body, modal, doorNumber, windowNumber, 2000000);
 
             bmw.writeProps();
             Console.WriteLine("---------------------------------------");
@@ -38,17 +38,20 @@ namespace Constructor_Composition_Overloading
             //Task-4 : Generic sınıf ve metotlarla esnek programlama nasıl yapılır?
             Console.WriteLine("\nTask-4 : Generic sınıf ve metotlarla esnek programlama nasıl yapılır?\n");
             //Classes klasöründeki Box classını kontrol edin.
+
             //Örnek string ile kullanma:
             Box<string> _string = new Box<string>();
             _string.Add("Emre");
             string message = _string.Take();
             Console.WriteLine(message);
+
             //Örnek int ile kullanma:
             Box<int> _int = new Box<int>();
             _int.Add(19);
             int result = _int.Take();
             Console.WriteLine(result);
-         
+
+           
            
         }
         

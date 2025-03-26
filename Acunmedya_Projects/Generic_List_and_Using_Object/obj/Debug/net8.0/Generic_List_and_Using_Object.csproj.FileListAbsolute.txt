@@ -1,0 +1,15 @@
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Generic_List_and_Using_Object\bin\Debug\net8.0\Generic_List_and_Using_Object.exe
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Generic_List_and_Using_Object\bin\Debug\net8.0\Generic_List_and_Using_Object.deps.json
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Generic_List_and_Using_Object\bin\Debug\net8.0\Generic_List_and_Using_Object.runtimeconfig.json
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Generic_List_and_Using_Object\bin\Debug\net8.0\Generic_List_and_Using_Object.dll
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Generic_List_and_Using_Object\bin\Debug\net8.0\Generic_List_and_Using_Object.pdb
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Generic_List_and_Using_Object\obj\Debug\net8.0\Generic_List_and_Using_Object.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Generic_List_and_Using_Object\obj\Debug\net8.0\Generic_List_and_Using_Object.AssemblyInfoInputs.cache
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Generic_List_and_Using_Object\obj\Debug\net8.0\Generic_List_and_Using_Object.AssemblyInfo.cs
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Generic_List_and_Using_Object\obj\Debug\net8.0\Generic_List_and_Using_Object.csproj.CoreCompileInputs.cache
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Generic_List_and_Using_Object\obj\Debug\net8.0\Generic_List_and_Using_Object.sourcelink.json
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Generic_List_and_Using_Object\obj\Debug\net8.0\Generic_List_and_Using_Object.dll
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Generic_List_and_Using_Object\obj\Debug\net8.0\refint\Generic_List_and_Using_Object.dll
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Generic_List_and_Using_Object\obj\Debug\net8.0\Generic_List_and_Using_Object.pdb
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Generic_List_and_Using_Object\obj\Debug\net8.0\Generic_List_and_Using_Object.genruntimeconfig.cache
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Generic_List_and_Using_Object\obj\Debug\net8.0\ref\Generic_List_and_Using_Object.dll

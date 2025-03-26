@@ -1,0 +1,15 @@
+Boxing ve Unboxing, temel veri türleri ile referans veri türleri arasında dönüşüm yapmamıza yarar.
+-Boxing: Bir değişkenin temel veri türünden object türünü alacak şekilde paketlenmesidir.
+-Unboxing: Object türünden,tekrar temel veri türünün çözülmesidir.
+
+Performansa etkisi: 
+Boxing ve Unboxing süreçleri ek bellek tüketimine ve performans kaybına neden olur. Özellikle büyük veri setleri ile çalışıldığında gereksiz dönüşümler CPU ve bellek kullanımını arttırabilir. Generic yapılar, Boxing & Unboxing ihtiyacını ortadan kaldırarak bu performans kaybını önler.
+
+Generic Yılar, programlamada türden bağımsız çalışan, esnek ve yeniden kullanılabilir kodlar oluşturmaya olanak tanır. Başlıca avantajları:
+-Derleme zamanında tür hatalarını önler, yanlış türde veri eklenmesini engeller.
+-Aynı işlevi gören ancak farklı veri türleriyle çalışan kodları tekrar yazma igtiyacını ortadan kaldırır.
+-Veri türleri arasında dönüşüm (boxing ve unboxing) olmadan direkt işlemler yapılmasını sağlar.
+
+Generic Sınıf ve metotlarla esnek Programlama Nasıl Yapılır?
+
+Örnek çalışma Program.cs üzerinde bulunmaktadır.

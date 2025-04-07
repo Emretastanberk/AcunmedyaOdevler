@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\tasta\\Desktop\\Acunmedya_Odevler\\AcunmedyaOdevler\\Acunmedya_Projects\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{48B722EB-1474-4C77-8A49-DB2074A863DA}|Generic_List_and_Using_Object\\Generic_List_and_Using_Object.csproj|c:\\users\\tasta\\desktop\\acunmedya_odevler\\acunmedyaodevler\\acunmedya_projects\\generic_list_and_using_object\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48B722EB-1474-4C77-8A49-DB2074A863DA}|Generic_List_and_Using_Object\\Generic_List_and_Using_Object.csproj|solutionrelative:generic_list_and_using_object\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E0BED42-7C6B-4F38-A37C-0539DF606D7A}|CarInfosWithWinForm\\CarInfosWithWinForm.csproj|c:\\users\\tasta\\desktop\\acunmedya_odevler\\acunmedyaodevler\\acunmedya_projects\\carinfoswithwinform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E0BED42-7C6B-4F38-A37C-0539DF606D7A}|CarInfosWithWinForm\\CarInfosWithWinForm.csproj|solutionrelative:carinfoswithwinform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48B722EB-1474-4C77-8A49-DB2074A863DA}|Generic_List_and_Using_Object\\Generic_List_and_Using_Object.csproj|c:\\users\\tasta\\desktop\\acunmedya_odevler\\acunmedyaodevler\\acunmedya_projects\\generic_list_and_using_object\\classes\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48B722EB-1474-4C77-8A49-DB2074A863DA}|Generic_List_and_Using_Object\\Generic_List_and_Using_Object.csproj|solutionrelative:generic_list_and_using_object\\classes\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E0BED42-7C6B-4F38-A37C-0539DF606D7A}|CarInfosWithWinForm\\CarInfosWithWinForm.csproj|c:\\users\\tasta\\desktop\\acunmedya_odevler\\acunmedyaodevler\\acunmedya_projects\\carinfoswithwinform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E0BED42-7C6B-4F38-A37C-0539DF606D7A}|CarInfosWithWinForm\\CarInfosWithWinForm.csproj|solutionrelative:carinfoswithwinform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,28 +23,26 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\tasta\\Desktop\\Acunmedya_Odevler\\AcunmedyaOdevler\\Acunmedya_Projects\\Generic_List_and_Using_Object\\Program.cs",
-              "RelativeDocumentMoniker": "Generic_List_and_Using_Object\\Program.cs",
-              "ToolTip": "C:\\Users\\tasta\\Desktop\\Acunmedya_Odevler\\AcunmedyaOdevler\\Acunmedya_Projects\\Generic_List_and_Using_Object\\Program.cs",
-              "RelativeToolTip": "Generic_List_and_Using_Object\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tasta\\Desktop\\Acunmedya_Odevler\\AcunmedyaOdevler\\Acunmedya_Projects\\CarInfosWithWinForm\\Form1.cs",
+              "RelativeDocumentMoniker": "CarInfosWithWinForm\\Form1.cs",
+              "ToolTip": "C:\\Users\\tasta\\Desktop\\Acunmedya_Odevler\\AcunmedyaOdevler\\Acunmedya_Projects\\CarInfosWithWinForm\\Form1.cs [Design]",
+              "RelativeToolTip": "CarInfosWithWinForm\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T16:19:12.694Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-07T19:39:42.249Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Car.cs",
-              "DocumentMoniker": "C:\\Users\\tasta\\Desktop\\Acunmedya_Odevler\\AcunmedyaOdevler\\Acunmedya_Projects\\Generic_List_and_Using_Object\\Classes\\Car.cs",
-              "RelativeDocumentMoniker": "Generic_List_and_Using_Object\\Classes\\Car.cs",
-              "ToolTip": "C:\\Users\\tasta\\Desktop\\Acunmedya_Odevler\\AcunmedyaOdevler\\Acunmedya_Projects\\Generic_List_and_Using_Object\\Classes\\Car.cs",
-              "RelativeToolTip": "Generic_List_and_Using_Object\\Classes\\Car.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAhAAAAAAAAAA==",
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\tasta\\Desktop\\Acunmedya_Odevler\\AcunmedyaOdevler\\Acunmedya_Projects\\CarInfosWithWinForm\\Form1.cs",
+              "RelativeDocumentMoniker": "CarInfosWithWinForm\\Form1.cs",
+              "ToolTip": "C:\\Users\\tasta\\Desktop\\Acunmedya_Odevler\\AcunmedyaOdevler\\Acunmedya_Projects\\CarInfosWithWinForm\\Form1.cs",
+              "RelativeToolTip": "CarInfosWithWinForm\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T16:20:33.353Z",
+              "WhenOpened": "2025-04-07T18:50:53.23Z",
               "EditorCaption": ""
             }
           ]

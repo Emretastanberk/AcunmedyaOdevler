@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\tasta\\Desktop\\Acunmedya_Odevler\\AcunmedyaOdevler\\Acunmedya_Projects\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0E0BED42-7C6B-4F38-A37C-0539DF606D7A}|CarInfosWithWinForm\\CarInfosWithWinForm.csproj|c:\\users\\tasta\\desktop\\acunmedya_odevler\\acunmedyaodevler\\acunmedya_projects\\carinfoswithwinform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0E0BED42-7C6B-4F38-A37C-0539DF606D7A}|CarInfosWithWinForm\\CarInfosWithWinForm.csproj|solutionrelative:carinfoswithwinform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{BDB10285-8C18-4279-9B70-A7DDEE56BEB8}|Serilazation_Deserialization\\Serilazation_Deserialization.csproj|c:\\users\\tasta\\desktop\\acunmedya_odevler\\acunmedyaodevler\\acunmedya_projects\\serilazation_deserialization\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDB10285-8C18-4279-9B70-A7DDEE56BEB8}|Serilazation_Deserialization\\Serilazation_Deserialization.csproj|solutionrelative:serilazation_deserialization\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E0BED42-7C6B-4F38-A37C-0539DF606D7A}|CarInfosWithWinForm\\CarInfosWithWinForm.csproj|c:\\users\\tasta\\desktop\\acunmedya_odevler\\acunmedyaodevler\\acunmedya_projects\\carinfoswithwinform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E0BED42-7C6B-4F38-A37C-0539DF606D7A}|CarInfosWithWinForm\\CarInfosWithWinForm.csproj|solutionrelative:carinfoswithwinform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BDB10285-8C18-4279-9B70-A7DDEE56BEB8}|Serilazation_Deserialization\\Serilazation_Deserialization.csproj|c:\\users\\tasta\\desktop\\acunmedya_odevler\\acunmedyaodevler\\acunmedya_projects\\serilazation_deserialization\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BDB10285-8C18-4279-9B70-A7DDEE56BEB8}|Serilazation_Deserialization\\Serilazation_Deserialization.csproj|solutionrelative:serilazation_deserialization\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDB10285-8C18-4279-9B70-A7DDEE56BEB8}|Serilazation_Deserialization\\Serilazation_Deserialization.csproj|c:\\users\\tasta\\desktop\\acunmedya_odevler\\acunmedyaodevler\\acunmedya_projects\\serilazation_deserialization\\reflection.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BDB10285-8C18-4279-9B70-A7DDEE56BEB8}|Serilazation_Deserialization\\Serilazation_Deserialization.csproj|solutionrelative:serilazation_deserialization\\reflection.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDB10285-8C18-4279-9B70-A7DDEE56BEB8}|Serilazation_Deserialization\\Serilazation_Deserialization.csproj|c:\\users\\tasta\\desktop\\acunmedya_odevler\\acunmedyaodevler\\acunmedya_projects\\serilazation_deserialization\\urun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDB10285-8C18-4279-9B70-A7DDEE56BEB8}|Serilazation_Deserialization\\Serilazation_Deserialization.csproj|solutionrelative:serilazation_deserialization\\urun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,26 +31,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\tasta\\Desktop\\Acunmedya_Odevler\\AcunmedyaOdevler\\Acunmedya_Projects\\CarInfosWithWinForm\\Form1.cs",
-              "RelativeDocumentMoniker": "CarInfosWithWinForm\\Form1.cs",
-              "ToolTip": "C:\\Users\\tasta\\Desktop\\Acunmedya_Odevler\\AcunmedyaOdevler\\Acunmedya_Projects\\CarInfosWithWinForm\\Form1.cs [Design]",
-              "RelativeToolTip": "CarInfosWithWinForm\\Form1.cs [Design]",
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\tasta\\Desktop\\Acunmedya_Odevler\\AcunmedyaOdevler\\Acunmedya_Projects\\Serilazation_Deserialization\\Form1.cs",
+              "RelativeDocumentMoniker": "Serilazation_Deserialization\\Form1.cs",
+              "ToolTip": "C:\\Users\\tasta\\Desktop\\Acunmedya_Odevler\\AcunmedyaOdevler\\Acunmedya_Projects\\Serilazation_Deserialization\\Form1.cs",
+              "RelativeToolTip": "Serilazation_Deserialization\\Form1.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAAwE4AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T19:39:42.249Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-04-17T07:46:15.872Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Reflection.txt",
+              "DocumentMoniker": "C:\\Users\\tasta\\Desktop\\Acunmedya_Odevler\\AcunmedyaOdevler\\Acunmedya_Projects\\Serilazation_Deserialization\\Reflection.txt",
+              "RelativeDocumentMoniker": "Serilazation_Deserialization\\Reflection.txt",
+              "ToolTip": "C:\\Users\\tasta\\Desktop\\Acunmedya_Odevler\\AcunmedyaOdevler\\Acunmedya_Projects\\Serilazation_Deserialization\\Reflection.txt",
+              "RelativeToolTip": "Serilazation_Deserialization\\Reflection.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-04-17T11:06:14.06Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\tasta\\Desktop\\Acunmedya_Odevler\\AcunmedyaOdevler\\Acunmedya_Projects\\CarInfosWithWinForm\\Form1.cs",
-              "RelativeDocumentMoniker": "CarInfosWithWinForm\\Form1.cs",
-              "ToolTip": "C:\\Users\\tasta\\Desktop\\Acunmedya_Odevler\\AcunmedyaOdevler\\Acunmedya_Projects\\CarInfosWithWinForm\\Form1.cs",
-              "RelativeToolTip": "CarInfosWithWinForm\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tasta\\Desktop\\Acunmedya_Odevler\\AcunmedyaOdevler\\Acunmedya_Projects\\Serilazation_Deserialization\\Form1.cs",
+              "RelativeDocumentMoniker": "Serilazation_Deserialization\\Form1.cs",
+              "ToolTip": "C:\\Users\\tasta\\Desktop\\Acunmedya_Odevler\\AcunmedyaOdevler\\Acunmedya_Projects\\Serilazation_Deserialization\\Form1.cs [Design]",
+              "RelativeToolTip": "Serilazation_Deserialization\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T18:50:53.23Z",
+              "WhenOpened": "2025-04-17T11:04:22.099Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Urun.cs",
+              "DocumentMoniker": "C:\\Users\\tasta\\Desktop\\Acunmedya_Odevler\\AcunmedyaOdevler\\Acunmedya_Projects\\Serilazation_Deserialization\\Urun.cs",
+              "RelativeDocumentMoniker": "Serilazation_Deserialization\\Urun.cs",
+              "ToolTip": "C:\\Users\\tasta\\Desktop\\Acunmedya_Odevler\\AcunmedyaOdevler\\Acunmedya_Projects\\Serilazation_Deserialization\\Urun.cs",
+              "RelativeToolTip": "Serilazation_Deserialization\\Urun.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T07:46:56.342Z",
               "EditorCaption": ""
             }
           ]

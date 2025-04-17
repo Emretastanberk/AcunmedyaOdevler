@@ -1,0 +1,3 @@
+﻿Çalışan bir programın kendi içindeki sınıf, metot ,özellik gibi yapıların bilgisine erişmeyi ve bunları
+incelememize yarayan bir özelliktir.
+Örnek kod için Form1.cs yi çalıştırıp Reflection butonuna basabilirsiniz..

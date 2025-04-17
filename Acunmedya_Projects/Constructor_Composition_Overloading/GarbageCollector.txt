@@ -13,3 +13,4 @@ serbest bırakılır. Parçalanmayı önlemek için canlı nesneler birleştiril
 Garbage Collectörün bellek yönetimindeki rolü nedir?
 Garbage Collector (GC), bellek yönetimini otomatikleştirerek kullanılmayan nesneleri temizler, bellek sızıntılarını
 önler ve belleği optimize eder.
+	

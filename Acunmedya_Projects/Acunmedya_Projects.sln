@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generic_List_and_Using_Obje
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarInfosWithWinForm", "CarInfosWithWinForm\CarInfosWithWinForm.csproj", "{0E0BED42-7C6B-4F38-A37C-0539DF606D7A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serilazation_Deserialization", "Serilazation_Deserialization\Serilazation_Deserialization.csproj", "{BDB10285-8C18-4279-9B70-A7DDEE56BEB8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{0E0BED42-7C6B-4F38-A37C-0539DF606D7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0E0BED42-7C6B-4F38-A37C-0539DF606D7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0E0BED42-7C6B-4F38-A37C-0539DF606D7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDB10285-8C18-4279-9B70-A7DDEE56BEB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDB10285-8C18-4279-9B70-A7DDEE56BEB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDB10285-8C18-4279-9B70-A7DDEE56BEB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDB10285-8C18-4279-9B70-A7DDEE56BEB8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

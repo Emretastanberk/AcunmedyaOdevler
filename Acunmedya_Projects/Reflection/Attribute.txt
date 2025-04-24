@@ -1,0 +1,13 @@
+﻿Attribute'lar, C# programlama dilinde sınıflara, metodlara, özzelliklere, parametrelere veya assembly
+gibi yapılara meta bilgi eklemek için kullanılan yapılardır. Bu bilgiler derleme zamanında ya da çalışma
+zamanında okunabilir ve kullanılabilir.
+Genelde şuralarda kullanılır;
+Dokümantasyon sağlamak, kod analizi yapmak, koşullu işlem yürütmek, veri doğrulama işlemlerinde kullanılır.
+
+Gerçek hayat örnekleri:
+[Obsolete] bir metodun artık kullanılmaması gerektiğini belirtir.
+
+[Required] Genellikle veri doğrulamı işlemi yapılır. Özellikle DataAnnotation ile birlikte model sınıflarında
+kullanılır.
+
+Attribute yazma,okuma ve kontrol etme proje içerisindeki WindowsForm ile yapılmıştır.

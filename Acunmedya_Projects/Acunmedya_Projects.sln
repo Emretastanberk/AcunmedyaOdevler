@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarInfosWithWinForm", "CarI
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serilazation_Deserialization", "Serilazation_Deserialization\Serilazation_Deserialization.csproj", "{BDB10285-8C18-4279-9B70-A7DDEE56BEB8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reflection", "Reflection\Reflection.csproj", "{B7CCE5B7-0CF1-4AD7-8C48-56FA32CFD26C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{BDB10285-8C18-4279-9B70-A7DDEE56BEB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BDB10285-8C18-4279-9B70-A7DDEE56BEB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BDB10285-8C18-4279-9B70-A7DDEE56BEB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7CCE5B7-0CF1-4AD7-8C48-56FA32CFD26C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7CCE5B7-0CF1-4AD7-8C48-56FA32CFD26C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7CCE5B7-0CF1-4AD7-8C48-56FA32CFD26C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7CCE5B7-0CF1-4AD7-8C48-56FA32CFD26C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

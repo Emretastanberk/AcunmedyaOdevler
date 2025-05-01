@@ -1,0 +1,17 @@
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Custom_Attribute\bin\Debug\net9.0-windows\Custom_Attribute.exe
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Custom_Attribute\bin\Debug\net9.0-windows\Custom_Attribute.deps.json
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Custom_Attribute\bin\Debug\net9.0-windows\Custom_Attribute.runtimeconfig.json
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Custom_Attribute\bin\Debug\net9.0-windows\Custom_Attribute.dll
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Custom_Attribute\bin\Debug\net9.0-windows\Custom_Attribute.pdb
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Custom_Attribute\obj\Debug\net9.0-windows\Custom_Attribute.Form1.resources
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Custom_Attribute\obj\Debug\net9.0-windows\Custom_Attribute.csproj.GenerateResource.cache
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Custom_Attribute\obj\Debug\net9.0-windows\Custom_Attribute.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Custom_Attribute\obj\Debug\net9.0-windows\Custom_Attribute.AssemblyInfoInputs.cache
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Custom_Attribute\obj\Debug\net9.0-windows\Custom_Attribute.AssemblyInfo.cs
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Custom_Attribute\obj\Debug\net9.0-windows\Custom_Attribute.csproj.CoreCompileInputs.cache
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Custom_Attribute\obj\Debug\net9.0-windows\Custom_Attribute.sourcelink.json
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Custom_Attribute\obj\Debug\net9.0-windows\Custom_Attribute.dll
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Custom_Attribute\obj\Debug\net9.0-windows\refint\Custom_Attribute.dll
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Custom_Attribute\obj\Debug\net9.0-windows\Custom_Attribute.pdb
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Custom_Attribute\obj\Debug\net9.0-windows\Custom_Attribute.genruntimeconfig.cache
+C:\Users\tasta\Desktop\Acunmedya_Odevler\AcunmedyaOdevler\Acunmedya_Projects\Custom_Attribute\obj\Debug\net9.0-windows\ref\Custom_Attribute.dll

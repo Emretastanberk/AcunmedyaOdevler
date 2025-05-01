@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Reflection.Attributes
 {
-    [AttributeUsage(AttributeTargets.Class | AttributeTargets.Method)]
+    [AttributeUsage(AttributeTargets.All)]
     public class AAuthor : Attribute
     {
 

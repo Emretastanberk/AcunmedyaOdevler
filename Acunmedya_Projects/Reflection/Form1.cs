@@ -100,6 +100,7 @@ namespace Reflection
         //Attribute tanımlama ve okuma
         private void btnAttributeUse_Click(object sender, EventArgs e)
         {
+            lstAttribute.Items.Clear();
             Type type = typeof(ExampleClass);
             object[] attributes = type.GetCustomAttributes(typeof(Attribute), false);
 
@@ -121,6 +122,7 @@ namespace Reflection
 
         private void btnAttributeControl_Click(object sender, EventArgs e)
         {
+            lstAttributeControl.Items.Clear();
             var user = new AUser();
             user.Ad = txtName.Text;
             user.Email = txtMail.Text;
